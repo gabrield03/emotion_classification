@@ -8,4 +8,3 @@ There are 28 different emotions that can be predicted. They emotions can be cate
 
 ### Application Languages
 - Python
-- Google Colab
